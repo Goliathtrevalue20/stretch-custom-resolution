@@ -1,0 +1,5 @@
+repository:
+  name: stretch-custom-resolution
+  description: "Stretched, boxed or pixel-exact resolutions for CS2 and other games. 15-second safety revert, EDID untouched by default."
+  topics: stretched-resolution, cs2, gaming, display, resolution, windows, free, utility
+  has_wiki: false
