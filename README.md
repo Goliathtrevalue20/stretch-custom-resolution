@@ -106,3 +106,7 @@ Screens show a screenshot and library art from Counter-Strike 2 (Valve), library
 **Description:** Custom resolution tool with live preview: stretched 4:3, black bars or integer scaling, 15-second revert, per-game resolution switching, cable bandwidth check.
 
 **Topics:** custom-resolution, stretched-resolution, stretched-res, cru, display-settings, 4-3, fortnite, cs2, windows
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
